@@ -17,7 +17,7 @@ def enter_pressed(event):
     search()
 
 root = Tk()
-root.title('Search Application')
+root.title("Yanis's Wikipedia")
 root.geometry('320x480')
 root.configure(bg='white')
 
