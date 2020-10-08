@@ -22,7 +22,7 @@ Please :star: this repo to help us improve the quality.
 ## Screenshots
 Home           | Result
 :---------------------:|:------------------:
-![screenshoot](screenshots/wa1.png) | ![screenshoot](screenshots/wa2.png)
+![screenshoot](screenshots/wa21.png) | ![screenshoot](screenshots/wa22.png)
 
 ## Requirements
 * python
