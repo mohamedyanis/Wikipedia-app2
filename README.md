@@ -36,7 +36,7 @@ Home           | Result
 pip install tkinter
 pip iinstall wikipedia
 ```
-3. Install this repository, click <a href="https://github.com/mohamedyanis/Wikipedia-app2/archive/main.zip"> here </a> to install it.
+3. Install this repository, click <a href="https://github.com/mohamedyanis/Wikipedia-app2/archive/master.zip"> here </a> to install it.
 4. Extract the folder.
 5. Run the ```wikipedia.py``` file.
 
