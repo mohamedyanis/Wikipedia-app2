@@ -4,7 +4,7 @@
 
 This is a simple Wikipedia desktop app written in Python With Tkinter module and the API of wikipedia (Application Programming Inerface).<br>
 Click <a href="https://docs.python.org/3/library/tk.html"> here</a> to read more about **tkinter** module.<br>
-This is the first version. You can check the <a href="https://github.com/mohamedyanis/Wikipedia-app">first version</a> .
+This is the seconde version. You can check the <a href="https://github.com/mohamedyanis/Wikipedia-app">first version</a> .
 
 ## #100daysofcode
 Almost a hundred days ago from now (01/10/2020), I decided to do the #100daysofcode challenge. This challenge is simply for someone to code every day and post on social media a picture shows that he wrote a code (every day). And than they share with us the final project.<br>
